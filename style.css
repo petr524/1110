@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+.content{
+    font-weight: bold;
+    width: 100vw;
+    height: 100vh;
+}
+.header{
+    background: coral;
+    width: 100vw;
+    height: 15vh;
+}
+.sidebar{
+    background: orange;
+    width: 20vw;
+    height: 70vh;
+    float: left;
+
+}
+.main{
+    background: lightskyblue;
+    width: 80vw;
+    height: 70vh;
+    float: left;
+}
+.footer{
+    background: green;
+    clear: both;
+    height: 15vh;
+}
